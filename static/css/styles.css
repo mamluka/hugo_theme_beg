@@ -126,7 +126,7 @@ article.single .article-body h3,
 article.single .article-body h4,
 article.single .article-body h5,
 article.single .article-body h6 {
-  word-break: break-all;
+
 }
 
 article.single h1 { font-size: 1.6rem; line-height: 2.4rem; }
